@@ -26,7 +26,6 @@
     height: 300px;
     transition: width 2s, height 2s, transform 2s;
     display: block;
-    margin-left: auto;
     margin-right: auto;
 
 }
